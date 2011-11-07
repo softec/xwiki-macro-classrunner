@@ -41,7 +41,7 @@ public class ClassRunnerMacroParameters implements RawProperties
     /**
      * @see {@link #getBaseURL()}
      */
-    private String baseURL = "http://localhost/resources/java/";
+    private String baseURL = "http://localhost:8080/resources/java/";
 
     /**
      * @see {@link #getProfile()}
